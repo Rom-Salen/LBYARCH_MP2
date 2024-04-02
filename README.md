@@ -116,7 +116,7 @@ Total Passed Sanity Checks: 30
 | 2^24 | 0.000846 | 0.001424 | 0.001024 | 0.000938 |
 | 2^27   | 0.006960   | 0.010127   | 0.012044   | 0.005294   |
 
-As can be seen above, both in Debug and Release, x86-64 is consistently
+As can be seen above, both in Debug and Release, x86-64 is faster than C when the program is fairly in Debug Mode, but C is faster than x86-64 when the program is in Release Mode.
 
 # II.) Screenshot with Correctness (C)
 
