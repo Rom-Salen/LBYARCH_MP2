@@ -117,6 +117,9 @@ Total Passed Sanity Checks: 30
 
 # II.) Screenshot with Correctness (C)
 
+![Example Image](Correctness_C.png)
 
+# III.) Screenshot with Correctness (ASM)
 
+![Example Image](Correctness_ASM.png)
 
