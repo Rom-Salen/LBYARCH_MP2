@@ -1,5 +1,8 @@
 # LBYARCH_MP2
-LBYARCH Machine Project#2
+#### Salen, Rommel Kendric D.
+#### Suba, Kaye Diosa Advincula
+#### S12
+LBYARCH Machine Project#2 
 
 ## DEBUG MODE:
 ### n = 2^20
