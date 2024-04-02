@@ -2,7 +2,7 @@
 LBYARCH Machine Project#2
 
 ## DEBUG MODE:
-#### n = 2^20
+### n = 2^20
 
 ```
 ASM     - Interation# 30
@@ -106,5 +106,10 @@ Average C time: 0.005294
 Total Passed Sanity Checks: 30
 ```
 
-
+# I.) Comparative Execution Time:
+| [] | Debug, ASM | Debug, C | Release, ASM | Release, C |
+|----------|----------|----------|----------|----------|
+| 2^20,   | 0.003000   | 0.004000,   | 0.002000   | 0.002000,   |
+| 2^24 | 0.019000 | 0.046000 | 0.033000 | 0.031000 |
+| 2^27,   | 0.220000   | 0.293000,   | 0.267000,   | 0.213000,   |
 
