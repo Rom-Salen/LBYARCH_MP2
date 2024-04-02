@@ -112,11 +112,11 @@ Total Passed Sanity Checks: 30
 # I.) Comparative Execution Time:
 | [] | Debug, ASM | Debug, C | Release, ASM | Release, C |
 |----------|----------|----------|----------|----------|
-| 2^20,   | 0.003000   | 0.004000   | 0.002000   | 0.002000   |
-| 2^24 | 0.019000 | 0.046000 | 0.033000 | 0.031000 |
-| 2^27,   | 0.220000   | 0.293000   | 0.267000   | 0.213000   |
+| 2^20   | 0.000059   | 0.000089   | 0.000060   | 0.000053   |
+| 2^24 | 0.000846 | 0.001424 | 0.001024 | 0.000938 |
+| 2^27   | 0.006960   | 0.010127   | 0.012044   | 0.005294   |
 
-As can be seen above, both in Debug and Release, x86-64 is consistently nearly double the time of C.
+As can be seen above, both in Debug and Release, x86-64 is consistently
 
 # II.) Screenshot with Correctness (C)
 
